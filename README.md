@@ -1,4 +1,4 @@
-# Vegetable_Price_Analysis_Timeseries
+# Vegetable_Price_Analysis_Time_Series_Forecasting
 Overview
 
 This repository contains Python code for analyzing vegetable prices using time series analysis techniques, with a focus on historical price data for various vegetables, particularly potatoes.
